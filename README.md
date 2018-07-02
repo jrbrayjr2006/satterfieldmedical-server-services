@@ -1,4 +1,4 @@
-#Satterfield Medical Services Server
+# Satterfield Medical Services Server
 
 Server application for exposing RESTful service endpoints to client applications for survey operations.
 
